@@ -498,6 +498,7 @@
 | [ClickUp](https://clickup.com/api) | ClickUp is a robust, cloud-based project management tool for boosting productivity | OAuth | True | unknown |
 | [Clockify](https://clockify.me/developers-api ) | Clockify's REST-based API can be used to push/pull data to/from it & integrate it with other systems | apiKey | True | unknown |
 | [CloudConvert](https://cloudconvert.com/api/v2) | Online file converter for audio, video, document, ebook, archive, image, spreadsheet, presentation | apiKey | True | unknown |
+| [KaijuConverter](https://kaijuconverter.com/api-docs) | Convert 201+ file formats (HEIC, PDF, DOCX, CSV, ODS, RAW, CAD, MP4, MP3), 54 Studio tools & MCP Server | `apiKey` | Yes | Yes |
 | [Cloudmersive Document and Data Conversion](https://cloudmersive.com/convert-api) | HTML/URL to PDF/PNG, Office documents to PDF, image conversion | apiKey | True | yes |
 | [Code::Stats](https://codestats.net/api-docs) | Automatic time tracking for programmers | apiKey | True | no |
 | [CraftMyPDF](https://craftmypdf.com) | Generate PDF documents from templates with a drop-and-drop editor and a simple API | apiKey | True | no |
